@@ -9,4 +9,7 @@
 <li>Click restart button, if you want to play again.</li>
 </ul>
 <p>Platform:- Microsoft Visual Studio 2010<br>
-Language:- C#.net</p><br><br>
+Language:- C#.net</p><br>
+
+![ss1](https://user-images.githubusercontent.com/80598599/164973584-8f006ecd-74dd-47a4-bf2b-48a6ee299b3c.png)
+![ss2](https://user-images.githubusercontent.com/80598599/164973586-8f92fd26-f099-4a9f-bebb-cb64382895b8.png)
