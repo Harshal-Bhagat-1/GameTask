@@ -1,0 +1,8 @@
+E:\Project\ShootingMonster\ShootingMonster\bin\Debug\ShootingMonster.exe
+E:\Project\ShootingMonster\ShootingMonster\bin\Debug\ShootingMonster.pdb
+E:\Project\ShootingMonster\ShootingMonster\obj\x86\Debug\ShootingMonster.Form1.resources
+E:\Project\ShootingMonster\ShootingMonster\obj\x86\Debug\ShootingMonster.Properties.Resources.resources
+E:\Project\ShootingMonster\ShootingMonster\obj\x86\Debug\ShootingMonster.csproj.GenerateResource.Cache
+E:\Project\ShootingMonster\ShootingMonster\obj\x86\Debug\ShootingMonster.exe
+E:\Project\ShootingMonster\ShootingMonster\obj\x86\Debug\ShootingMonster.pdb
+E:\Project\ShootingMonster\ShootingMonster\obj\x86\Debug\ShootingMonster.csprojResolveAssemblyReference.cache
